@@ -1,4 +1,4 @@
-export default function () {
+export default function groceriesList() {
   const map = new Map();
   map.set('Apple', 10);
   map.set('Tomatoes', 10);
